@@ -11,3 +11,7 @@
 ---
 
 ## :woman_technologist: About Me :
+* I am 20 years old *
+* Studyed in ITMO university *
+
+---
